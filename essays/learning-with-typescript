@@ -11,9 +11,7 @@ labels:
   - ICS 314
 ---
 
-Learning with TypeScript
-
-Getting Used to TypeScript
+## Getting Used to TypeScript
 
 So far, I think TypeScript is fine. I would not say that I have become proficient with it, but I also have not found it that difficult to learn. 
 I already had some experience with JavaScript and Java, so TypeScript feels familiar enough that I am not completely lost.
@@ -31,7 +29,8 @@ I think some of that comes from still being inexperienced and out of practice wi
 From a software engineering perspective, I do not know enough yet to say whether TypeScript is objectively a good or bad programming language. From my experience, though, I think it is usable and understandable.
 I like that it is similar enough to JavaScript that syntax and ideas are familiar to me.
 
-Learning with WODs
+## Learning with WODs
+
 I think the WODs are a good way to learn programming because they force you to actually write code instead of just reading about programming concepts, which can be tedious and you might lose interest.
 I agree with the belief that one of the best ways to learn programming, like most things, is simply to do it.
 
@@ -48,7 +47,7 @@ I understand why the class uses this learning style. Software engineers sometime
 However, I don't necessarily think that struggling with a new concept / programming language under a time limit means that someone does not understand or comprehend.
 I think finding a balance would be nice.
 
-Experience with AI
+## Experience with AI
 
 One thing I have also thought about is the use of AI. We are allowed to use AI to our advantage in this class, and I have used Google Gemini once to help me with Jamba Juice 3.
 I was struggling with how to implement the Inventory and Store classes, and I used Google Gemini to help simplify a solution I had come up with but was not satisfied with.
@@ -67,7 +66,7 @@ Making mistakes is part of learning programming.
 Again, I understand that students are responsible for how they use AI, and I could have made the choice not to use it.
 However, I think removing the option entirely and taking a hard stance against it would make it easier for students to learn.
 
-Conclusion
+## Conclusion
 
 In conclusion, I think TypeScript and the learning style of this class are both useful for me, even if I find them challenging, stressful or maybe not even enjoyable sometimes.
 I'm still learning TypeScript and recollecting what I had previously learned about HTML, CSS and JavaScript, and I am still struggling when I have to implement a solution that I conceptually understand but don't know how to code yet.
