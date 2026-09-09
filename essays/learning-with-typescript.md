@@ -6,6 +6,7 @@ date: 2026-09-09
 published: true
 labels:
   - Software Engineering
+  - ICS 314
 ---
 
 ## Getting Used to TypeScript
