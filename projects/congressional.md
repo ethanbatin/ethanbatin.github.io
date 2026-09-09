@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://cdn.discordapp.com/attachments/1157565981770661890/1547299645489942608/image.png?ex=6aa2ea96&is=6aa19916&hm=9a76526150702b89a4e66c3300bd0afa5fcc053ed823c4c728330f00e25c970e
+image: https://media.licdn.com/dms/image/v2/C4D0BAQG-S80r4fPEmw/company-logo_200_200/company-logo_200_200/0/1631303137354?e=2147483647&v=beta&t=f2bieSDasF0ZgnKOfiPHCq_fes2kwXVoAs9U6fumPq4
 title: "Congressional"
 date: 2023
 published: true
