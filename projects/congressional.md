@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: https://media.licdn.com/dms/image/v2/C4D0BAQG-S80r4fPEmw/company-logo_200_200/company-logo_200_200/0/1631303137354?e=2147483647&v=beta&t=f2bieSDasF0ZgnKOfiPHCq_fes2kwXVoAs9U6fumPq4
+image: https://smucker.house.gov/sites/evo-subsites/smucker-evo.house.gov/files/evo-media-image/congressional-app-challenge-coalition-vertical-2.png
 title: "Congressional"
-date: 2023-11-01
+date: 2023
 published: true
 labels:
   - HTML
