@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="384" height="384" alt="image" src="https://github.com/user-attachments/assets/bda0d2f4-aad0-43f6-8c33-809c894d2903" />
+image: https://github.com/user-attachments/assets/bda0d2f4-aad0-43f6-8c33-809c894d2903
 
 title: "Congressional"
 date: 2023
