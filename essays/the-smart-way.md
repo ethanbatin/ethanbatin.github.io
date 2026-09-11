@@ -28,7 +28,7 @@ The poster kept the question short and focused only on important information req
 Since the question was, other users and developers have turned it into a community wiki that is still used to teach users how to find and show problems clearly.
 
 ## The "Not Smart Way"
-Another poster had asked a question on Stack Overflow, (wondering why their Python code was not working)[https://stackoverflow.com/questions/25761920/why-doesnt-my-code-work-please-look-and-see-if-you-can-help-me?utm_source=chatgpt.com].
+Another poster had asked a question on Stack Overflow, [wondering why their Python code was not working](https://stackoverflow.com/questions/25761920/why-doesnt-my-code-work-please-look-and-see-if-you-can-help-me).
 The poster included their code and simply asked others to “look and see” what was wrong.
 
 Why was this "not smart"? The poster did not clearly identify their specific problem, expected result, or actual result. They failed to demonstrate any debugging or research that they had already completed themselves before asking.
