@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: https://github.com/user-attachments/assets/fe77e296-69dd-475b-9f5a-fb538d5e08cf
 title: "Flappy Bird Remake"
 date: 2025-16-01
 published: true
