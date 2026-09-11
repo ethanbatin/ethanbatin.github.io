@@ -13,3 +13,7 @@ summary: "My team developed a website for the Congressional App Challenge."
 ---
 
 The goal of this project was to help us become more comfortable working in teams and applying the skills we learned in class to create a website collaboratively.
+
+My contributions was mostly coming up with the idea of the project, most of the HTML, some of the CSS and JavaScript, such as utilizing Edamam API.
+
+[Repository for this project.](https://github.com/ethanbatin/congressionalProject)
