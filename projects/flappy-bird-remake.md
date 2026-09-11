@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/user-attachments/assets/fe77e296-69dd-475b-9f5a-fb538d5e08cf
+image: img/flappy-bird.png
 title: "Flappy Bird Remake"
 date: 2025-01-16
 published: true
