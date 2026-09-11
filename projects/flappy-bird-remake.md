@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/flappy-bird.png
+image: img/flappy.png
 title: "Flappy Bird Remake"
 date: 2025-01-16
 published: true
