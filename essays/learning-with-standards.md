@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Learning with Coding Standards"
-date: 2026-24-09
+date: 2026-09-24
 published: true
 labels:
   - Software Engineering
