@@ -12,6 +12,11 @@ labels:
 
 # Final Project Ideas
 
+**Contributors**
+- Ethan Batin (ebatin@hawaii.edu)
+- Tyler Gabriel Lasquero (tgal@hawaii.edu)
+- Raphael Rios (raphael4@hawaii.edu)
+
 ## UH Manoa Forums (#1)
 
 **Main problem:** Students and faculty often email the school about problems, but students do not know whether the school is aware of them.
