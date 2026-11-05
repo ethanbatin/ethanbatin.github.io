@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "Final Project Ideas"
 # All dates must be YYYY-MM-DD format!
 date: 2026-11-05
 published: true
