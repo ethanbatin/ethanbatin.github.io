@@ -1,14 +1,12 @@
----
-layout: project
-type: project
-image: 
+layout: essay
+type: essay
 title: "Final Project Idea"
-date: 11-05-2026
+# All dates must be YYYY-MM-DD format!
+date: 2016-11-05
 published: true
 labels:
   - JavaScript
   - nextJS
-summary: "Group 6's Final Project Ideas"
 ---
 
 # Final Project Ideas
