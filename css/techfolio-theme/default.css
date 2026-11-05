@@ -2,6 +2,7 @@
 
 /* Use Open Sans as the default sans serif font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
@@ -47,4 +48,70 @@ a {
 .card-footer {
   background-color: var(--bs-white);
   border-top: none;
+}
+
+.essay-page {
+  color: #172033;
+  font-family: "Montserrat", sans-serif;
+}
+
+.essay-page__container {
+  width: calc(100% - 48px);
+  max-width: 1588px;
+  margin: 0 auto;
+  padding-top: 40px !important;
+}
+
+.essay-page__title {
+  margin: 0 0 10px;
+  color: #136c14;
+  font-size: clamp(2.75rem, 5vw, 4.25rem);
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.essay-page__date {
+  display: block;
+  margin-bottom: 22px;
+  font-size: 1.125rem;
+}
+
+.essay-page__divider {
+  margin: 0 0 20px;
+  color: #b8b8b8;
+  opacity: 1;
+}
+
+.essay-page__content {
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.essay-page__content h1,
+.essay-page__content h2,
+.essay-page__content h3,
+.essay-page__content h4,
+.essay-page__content h5 {
+  color: #136c14;
+  font-weight: 600;
+}
+
+.essay-page__content h1,
+.essay-page__content h2 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.essay-page__content p {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 600px) {
+  .essay-page__container {
+    width: calc(100% - 32px);
+  }
+
+  .essay-page__content {
+    font-size: 1.05rem;
+  }
 }
